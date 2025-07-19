@@ -1,1 +1,1 @@
-# MOD1
+This course will focus on understanding various concepts that can be utilized in order to create software applications that are more secure. Students will learn how to identify common programming errors that can lead to software vulnerabilities for an organization. Students will be able to identify the risks and consequences associated with poor programming constructs. They will also apply the principles of strong software design and development to the Java and C++ programming languages.
