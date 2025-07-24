@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\MOD2\ConCat.cpp">
+    <ClCompile Include="CAT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
