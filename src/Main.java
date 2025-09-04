@@ -18,7 +18,7 @@ class Counter {
         }
     }
     public synchronized void countDown() {
-        while (count > 0) {
+        while (count >= 0) {
             System.out.println("Count Down: " + count);
             count--;
             try {
